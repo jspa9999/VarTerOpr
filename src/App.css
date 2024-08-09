@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.tb{
+  border: 1px solid black;
+  width: 50%;
+  margin: 20px;
+}
+th,td{
+  border: 1px solid black; 
+}
+caption{
+  background-color: aquamarine;
+  color: blue;
+  font: size 8rem;
+}
